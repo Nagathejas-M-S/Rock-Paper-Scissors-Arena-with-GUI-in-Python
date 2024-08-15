@@ -30,15 +30,11 @@ Welcome to **Rock-Paper-Scissors-Arena**, a fun and interactive Tkinter-based ga
    ```bash
    git clone https://github.com/Nagathejas-M-S/Rock-Paper-Scissors-Arena-with-GUI-in-Python.git
   
-Navigate into the project directory:
- ```bash
-cd rock-paper-scissors
-```
-Ensure you have Python and Tkinter installed. Tkinter is included with most Python installations.
+2.Ensure you have Python and Tkinter installed. Tkinter is included with most Python installations.
 
 Run the application:  
  ```bash
-python main.py
+python rock_paper_scissor.py
 ```
 
 ## Usage 
