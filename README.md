@@ -12,17 +12,17 @@ Welcome to **Rock-Paper-Scissors-Arena**, a fun and interactive Tkinter-based ga
 
 ## Screenshots
 
-![Game Intro](screenshots/intro.png)
+![Game Intro](1.png)
 *Game Intro Screen*
 
-![Rules Screen](screenshots/rules.png)
-*Rules Screen*
+![Main Screen](2.png)
+*Main Screen*
 
-![Player vs Player](screenshots/player_vs_player.png)
+![Player vs Player](3.png)
 *Player vs Player Mode*
 
-![Player vs Computer](screenshots/player_vs_computer.png)
-*Player vs Computer Mode*
+![Results](4.png)
+*Results*
 
 ## Installation
 
