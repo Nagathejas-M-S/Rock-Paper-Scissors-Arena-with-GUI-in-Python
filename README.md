@@ -28,14 +28,18 @@ Welcome to **Rock-Paper-Scissors-Arena**, a fun and interactive Tkinter-based ga
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-showdown.git
+   git clone https://github.com/Nagathejas-M-S/Rock-Paper-Scissors-Arena-with-GUI-in-Python.git
   
 Navigate into the project directory:
-cd rock-paper-scissors-showdown
+ ```bash
+cd rock-paper-scissors
+```
 Ensure you have Python and Tkinter installed. Tkinter is included with most Python installations.
 
 Run the application:  
+ ```bash
 python main.py
+```
 
 ## Usage 
 
